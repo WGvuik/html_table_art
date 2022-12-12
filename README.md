@@ -1,2 +1,2 @@
 # html_table_art
-meme
+pip install requirements.txt
